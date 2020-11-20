@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Alex Naydenov | Algorithms - The Tech Leader Podcast</title>
+        <title>The Tech Leader Podcast by Alex Naydenov</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
