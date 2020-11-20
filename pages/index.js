@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Create Next App</title>
+        <title>Alex Naydenov | Algorithms - The Tech Leader Podcast</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -15,7 +15,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
+          <a href="https://graphcms.com>GraphCMS"</a> Sales Director | <a href="https://paperhive.org">PaperHive</a> and <a href="https://oib.bg">United Ideas</a> Co-Founder  
           <code className={styles.code}>pages/index.js</code>
         </p>
 
